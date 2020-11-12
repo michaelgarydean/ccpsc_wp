@@ -1,0 +1,7 @@
+/* FEATURED BOXES */
+/* Select the services boxes depending on whether its FR/EN  - rm #34931 */
+/* @see https://redmine.koumbit.net/issues/34931#note-1 */
+
+section#lp-boxes-2 {
+	display: none;
+}
